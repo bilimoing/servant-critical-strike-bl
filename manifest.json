@@ -1,0 +1,29 @@
+{
+  "uid": "e3b2b0ac-1c1c-4acf-a73e-72e95da3db16",
+  "id": "servant-critical-strike",
+  "name": "Minions Crit",
+  "localizedNames": {
+    "zh-Hans": "仆从暴击"
+  },
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "末泠",
+      "role": "Author",
+      "avatar": "moling.png",
+      "link": "https://space.bilibili.com/1196822829"
+    }
+  ],
+  "category": "Jogabilidade",
+  "summary": "Let minions critically strike enemies; adjust the chance in Mod Configuration.",
+  "license": "MIT",
+  "blVersion": 2,
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "原模组主页",
+      "url": "https://space.bilibili.com/1196822829"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Configs": {
+    "MinionCriticalConfig": {
+      "CritChance": {
+        "Label": "Minion critical chance"
+      }
+    }
+  }
+}

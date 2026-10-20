@@ -1,0 +1,9 @@
+{
+  "Configs": {
+    "MinionCriticalConfig": {
+      "CritChance": {
+        "Label": "召唤物暴击率"
+      }
+    }
+  }
+}
